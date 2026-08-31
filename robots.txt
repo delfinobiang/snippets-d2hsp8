@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delfinobiang.github.io/snippets-d2hsp8/sitemap.xml
